@@ -1,5 +1,5 @@
 Ex.No:1
-Ex.Name: 
+Ex.Name: Given a weighted, undirected and connected graph of V vertices and E edges. The task is to find the sum of weights of the edges of the Minimum Spanning Tree.
 Date:
 Aim:
 
