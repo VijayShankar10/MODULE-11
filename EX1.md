@@ -87,7 +87,11 @@ int main()
 	return 0;
 }
 ```
+
 ## Output:
+<img width="861" height="867" alt="image" src="https://github.com/user-attachments/assets/d1387327-9998-471e-a36c-d06bdcb1e6c3" />
+
+## Result:
 ```
 Input:
 3 3
@@ -101,7 +105,3 @@ Prim's MST edges are:
 0 - 2
 MST cost = 4
 ```
-## Result:
-<img width="861" height="867" alt="image" src="https://github.com/user-attachments/assets/d1387327-9998-471e-a36c-d06bdcb1e6c3" />
-
-
