@@ -35,7 +35,11 @@ for(int i=0;i<V;i++){
 }
 }
 ```
+
 ## Output:
+<img width="426" height="666" alt="image" src="https://github.com/user-attachments/assets/95a979f5-001b-4918-b0e7-f7210c595e1f" />
+
+## Result:
 ```
 Input:
 6 8
@@ -57,7 +61,3 @@ D 16
 E 19
 F 17
 ```
-## Result:
-<img width="426" height="666" alt="image" src="https://github.com/user-attachments/assets/95a979f5-001b-4918-b0e7-f7210c595e1f" />
-
-
