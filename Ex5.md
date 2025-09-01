@@ -53,7 +53,11 @@ int main()
 }
 
 ```
+
 ## Output:
+<img width="884" height="414" alt="image" src="https://github.com/user-attachments/assets/09f0e688-5b34-47fb-b937-7000403c43e5" />
+
+## Result:
 ```
 Input:
 10.01
@@ -73,7 +77,3 @@ Output:
 20.2
 20.2
 ```
-## Result:
-<img width="884" height="414" alt="image" src="https://github.com/user-attachments/assets/09f0e688-5b34-47fb-b937-7000403c43e5" />
-
-
