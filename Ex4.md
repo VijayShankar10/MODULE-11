@@ -169,7 +169,11 @@ bool isBipartite(int V, vector<int> adj[])
     return 1;
 }
 ```
-## Output:
+
+ ## Output:
+<img width="526" height="803" alt="image" src="https://github.com/user-attachments/assets/8391552a-276a-4430-98c6-1d0b0698e7c5" />
+
+## Result:
 ```
 Input:
 4 4
@@ -197,7 +201,3 @@ Input:
 Output:
 No not a bipartite graph
 ```
- ## Result:
-<img width="526" height="803" alt="image" src="https://github.com/user-attachments/assets/8391552a-276a-4430-98c6-1d0b0698e7c5" />
-
-
